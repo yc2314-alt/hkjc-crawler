@@ -13,6 +13,7 @@ from hkjc_crawler import (
     MATCH_INFO_SELECTOR,
     RESULTS_URL,
     TARGET_MARKETS,
+    _text,
     extract_match_data,
     find_match,
     return_to_results,
@@ -93,7 +94,63 @@ def split_teams(teams):
     return "", ""
 
 
-def list_finished_matches(page):
+def parse_kickoff(value):
+    """kickOffTime 例子：2026-10-18T10:00:00.000+08:00。"""
+    if not value:
+        return None, None
+    try:
+        kickoff = datetime.fromisoformat(value)
+    except ValueError:
+        return None, None
+    return kickoff.strftime("%Y-%m-%d"), kickoff.strftime("%H:%M")
+
+
+def parse_date_cell(value):
+    """賽果行日期格例子：18/10/2026。"""
+    found = re.fullmatch(r"(\d{2})/(\d{2})/(\d{4})", (value or "").strip())
+    if not found:
+        return None
+    day, month, year = found.groups()
+    return f"{year}-{month}-{day}"
+
+
+def remember_schedule(response, responses):
+    if "kickOffTime" not in response.url:
+        return
+    responses.append(response)
+
+
+def read_schedule(responses):
+    schedule = {}
+    for response in responses:
+        try:
+            payload = response.json()
+        except Exception:
+            continue
+        matches = ((payload or {}).get("data") or {}).get("matches") or []
+        for item in matches:
+            match_id = item.get("frontEndId")
+            match_date, match_time = parse_kickoff(item.get("kickOffTime"))
+            if match_id and match_date and match_time:
+                schedule[match_id] = {"match_date": match_date, "match_time": match_time}
+    return schedule
+
+
+def schedule_for_match(match_element, match_id, schedule):
+    saved = schedule.get(match_id, {})
+    match_date = saved.get("match_date")
+    match_time = saved.get("match_time")
+    if not match_date:
+        match_date = parse_date_cell(_text(match_element.locator(".date-cell")))
+    if not match_date:
+        testid = match_element.get_attribute("data-testid") or ""
+        found = re.search(r"_(\d{4})(\d{2})(\d{2})$", testid)
+        if found:
+            match_date = "-".join(found.groups())
+    return match_date, match_time
+
+
+def list_finished_matches(page, schedule):
     matches = page.locator(MATCH_INFO_SELECTOR)
     total = matches.count()
     finished = []
@@ -106,10 +163,13 @@ def list_finished_matches(page):
         if not full_time:
             continue
         home, away = split_teams(data["teams"])
+        match_date, match_time = schedule_for_match(matches.nth(index), data["match_id"], schedule)
         seen.add(data["match_id"])
         finished.append(
             {
                 "match_id": data["match_id"],
+                "match_date": match_date,
+                "match_time": match_time,
                 "home_team": home,
                 "away_team": away,
                 "half_time_score": normalize_score(data["half_time_score"]) or None,
@@ -191,6 +251,8 @@ def build_record(info, markets):
     by_name = {market["name"]: market for market in markets}
     record = {
         "match_id": info["match_id"],
+        "match_date": info.get("match_date"),
+        "match_time": info.get("match_time"),
         "home_team": info["home_team"],
         "away_team": info["away_team"],
         "half_time_score": info["half_time_score"],
@@ -241,6 +303,40 @@ def recover_results_page(page):
     return True
 
 
+def with_schedule(record, info):
+    updated = {
+        "match_id": record.get("match_id") or info["match_id"],
+        "match_date": info.get("match_date"),
+        "match_time": info.get("match_time"),
+        "home_team": record.get("home_team"),
+        "away_team": record.get("away_team"),
+        "half_time_score": record.get("half_time_score"),
+        "full_time_score": record.get("full_time_score"),
+    }
+    for key, value in record.items():
+        if key not in updated:
+            updated[key] = value
+    return updated
+
+
+def backfill_saved_matches(finished):
+    updated = 0
+    missing_time = []
+    for info in finished:
+        path = RESULTS_DIR / f"{info['match_id']}.json"
+        if not path.exists():
+            continue
+        record = json.loads(path.read_text(encoding="utf-8"))
+        revised = with_schedule(record, info)
+        if revised == record:
+            continue
+        dump_json(path, revised)
+        updated += 1
+        if not info.get("match_time"):
+            missing_time.append(info["match_id"])
+    return updated, missing_time
+
+
 def write_all_results(ordered_ids):
     rows = []
     used = set()
@@ -265,6 +361,8 @@ def run(headless=False):
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
         page = browser.new_page(viewport={"width": 1400, "height": 900})
+        schedule_responses = []
+        page.on("response", lambda response: remember_schedule(response, schedule_responses))
         try:
             print("正在前往馬會賽果頁面...")
             page.goto(RESULTS_URL, wait_until="domcontentloaded", timeout=45000)
@@ -272,7 +370,9 @@ def run(headless=False):
             time.sleep(1)
             print(f"頁面標題：{page.title()}")
 
-            finished = list_finished_matches(page)
+            schedule = read_schedule(schedule_responses)
+            print(f"由賽果資料讀到 {len(schedule)} 場開波時間")
+            finished = list_finished_matches(page, schedule)
             finished_ids = [item["match_id"] for item in finished]
             completed = [match_id for match_id in progress["completed"] if match_id in finished_ids]
             completed_set = set(completed)
@@ -287,6 +387,11 @@ def run(headless=False):
             save_progress(progress)
 
             total = len(finished)
+            updated, missing_time = backfill_saved_matches(finished)
+            if updated:
+                print(f"已為 {updated} 場已保存賽事補上日期同時間")
+            if missing_time:
+                print(f"有 {len(missing_time)} 場搵唔到開波時間")
             print(f"完場賽事 {total} 場，已完成 {len(completed)} 場，今次處理 {len(pending)} 場")
             if not pending:
                 count = write_all_results(finished_ids)
@@ -305,6 +410,7 @@ def run(headless=False):
                 half_time = info["half_time_score"] or "-"
                 print(
                     f"\n[{position[match_id]}/{total}] {match_id} "
+                    f"{info.get('match_date') or '-'} {info.get('match_time') or '-'} "
                     f"{info['home_team']} 對 {info['away_team']} "
                     f"半場 {half_time} 全場 {info['full_time_score']}"
                 )

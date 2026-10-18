@@ -1,6 +1,8 @@
 [
   {
     "match_id": "FB6993",
+    "match_date": "2026-10-18",
+    "match_time": "00:00",
     "home_team": "博洛尼亞",
     "away_team": "國際米蘭",
     "half_time_score": "1:1",
@@ -107,6 +109,8 @@
   },
   {
     "match_id": "FB7048",
+    "match_date": "2026-10-18",
+    "match_time": "00:00",
     "home_team": "維京",
     "away_team": "費德列斯達",
     "half_time_score": "1:2",
@@ -175,6 +179,8 @@
   },
   {
     "match_id": "FB7222",
+    "match_date": "2026-10-18",
+    "match_time": "00:00",
     "home_team": "FC溫特圖爾",
     "away_team": "盧塞恩",
     "half_time_score": "0:0",
@@ -243,6 +249,8 @@
   },
   {
     "match_id": "FB7171",
+    "match_date": "2026-10-18",
+    "match_time": "00:10",
     "home_team": "AIK蘇納",
     "away_team": "哥登堡",
     "half_time_score": "1:1",
@@ -349,6 +357,8 @@
   },
   {
     "match_id": "FB7065",
+    "match_date": "2026-10-18",
+    "match_time": "00:30",
     "home_team": "紐卡素",
     "away_team": "阿士東維拉",
     "half_time_score": "0:1",
@@ -455,6 +465,8 @@
   },
   {
     "match_id": "FB6975",
+    "match_date": "2026-10-18",
+    "match_time": "00:30",
     "home_team": "拜仁慕尼黑",
     "away_team": "RB萊比錫",
     "half_time_score": "3:0",
@@ -561,6 +573,8 @@
   },
   {
     "match_id": "FB7070",
+    "match_date": "2026-10-18",
+    "match_time": "00:30",
     "home_team": "莫斯科火車頭",
     "away_team": "卡斯洛達",
     "half_time_score": "1:1",
@@ -629,6 +643,8 @@
   },
   {
     "match_id": "FB7057",
+    "match_date": "2026-10-18",
+    "match_time": "00:30",
     "home_team": "貝迪斯",
     "away_team": "巴塞隆拿",
     "half_time_score": "1:2",
@@ -735,6 +751,8 @@
   },
   {
     "match_id": "FB7195",
+    "match_date": "2026-10-18",
+    "match_time": "00:45",
     "home_team": "盧沙爾SC",
     "away_team": "艾沙瑪",
     "half_time_score": "0:0",
@@ -803,6 +821,8 @@
   },
   {
     "match_id": "FB7210",
+    "match_date": "2026-10-18",
+    "match_time": "01:30",
     "home_team": "列特",
     "away_team": "奧地利維也納",
     "half_time_score": "2:1",
@@ -877,6 +897,8 @@
   },
   {
     "match_id": "FB7143",
+    "match_date": "2026-10-18",
+    "match_time": "01:58",
     "home_team": "班菲特",
     "away_team": "小阿根廷人",
     "half_time_score": "0:0",
@@ -945,6 +967,8 @@
   },
   {
     "match_id": "FB6976",
+    "match_date": "2026-10-18",
+    "match_time": "02:00",
     "home_team": "泰斯達",
     "away_team": "飛燕諾",
     "half_time_score": "2:3",
@@ -1051,6 +1075,8 @@
   },
   {
     "match_id": "FB7133",
+    "match_date": "2026-10-18",
+    "match_time": "02:00",
     "home_team": "紅星",
     "away_team": "聖伊天",
     "half_time_score": "0:1",
@@ -1125,6 +1151,8 @@
   },
   {
     "match_id": "FB7196",
+    "match_date": "2026-10-18",
+    "match_time": "02:00",
     "home_team": "迪里耶會",
     "away_team": "艾塔亞文",
     "half_time_score": "0:0",
@@ -1193,6 +1221,8 @@
   },
   {
     "match_id": "FB7028",
+    "match_date": "2026-10-18",
+    "match_time": "02:30",
     "home_team": "漢諾威",
     "away_team": "聖保利",
     "half_time_score": "0:1",
@@ -1299,6 +1329,8 @@
   },
   {
     "match_id": "FB7102",
+    "match_date": "2026-10-18",
+    "match_time": "02:30",
     "home_team": "費城聯",
     "away_team": "夏洛特FC",
     "half_time_score": "1:0",
@@ -1399,6 +1431,8 @@
   },
   {
     "match_id": "FB6980",
+    "match_date": "2026-10-18",
+    "match_time": "02:45",
     "home_team": "里爾",
     "away_team": "比斯特",
     "half_time_score": "0:1",
@@ -1505,6 +1539,8 @@
   },
   {
     "match_id": "FB6979",
+    "match_date": "2026-10-18",
+    "match_time": "02:45",
     "home_team": "特魯瓦",
     "away_team": "朗斯",
     "half_time_score": "1:2",
@@ -1611,6 +1647,8 @@
   },
   {
     "match_id": "FB6992",
+    "match_date": "2026-10-18",
+    "match_time": "02:45",
     "home_team": "羅馬",
     "away_team": "熱拿亞",
     "half_time_score": "0:0",
@@ -1717,6 +1755,8 @@
   },
   {
     "match_id": "FB6972",
+    "match_date": "2026-10-18",
+    "match_time": "03:00",
     "home_team": "鹿特丹斯巴達",
     "away_team": "威廉二世",
     "half_time_score": "1:1",
@@ -1785,6 +1825,8 @@
   },
   {
     "match_id": "FB6984",
+    "match_date": "2026-10-18",
+    "match_time": "03:00",
     "home_team": "華倫西亞",
     "away_team": "畢爾包",
     "half_time_score": "0:0",
@@ -1891,6 +1933,8 @@
   },
   {
     "match_id": "FB6967",
+    "match_date": "2026-10-18",
+    "match_time": "03:00",
     "home_team": "登地",
     "away_team": "格拉斯哥流浪",
     "half_time_score": "1:1",
@@ -1965,6 +2009,8 @@
   },
   {
     "match_id": "FB7134",
+    "match_date": "2026-10-18",
+    "match_time": "03:28",
     "home_team": "施亞拉",
     "away_team": "青年人",
     "half_time_score": "0:0",
@@ -2071,6 +2117,8 @@
   },
   {
     "match_id": "FB7140",
+    "match_date": "2026-10-18",
+    "match_time": "04:28",
     "home_team": "CA普拉坦斯",
     "away_team": "拉魯斯",
     "half_time_score": "0:1",
@@ -2139,6 +2187,8 @@
   },
   {
     "match_id": "FB7141",
+    "match_date": "2026-10-18",
+    "match_time": "04:28",
     "home_team": "利華達維亞獨立",
     "away_team": "堤格雷",
     "half_time_score": "1:1",
@@ -2207,6 +2257,8 @@
   },
   {
     "match_id": "FB7099",
+    "match_date": "2026-10-18",
+    "match_time": "04:30",
     "home_team": "明尼蘇達聯",
     "away_team": "聖路易城SC",
     "half_time_score": "0:2",
@@ -2313,6 +2365,8 @@
   },
   {
     "match_id": "FB7158",
+    "match_date": "2026-10-18",
+    "match_time": "05:00",
     "home_team": "保地花高",
     "away_team": "查比高恩斯",
     "half_time_score": "1:0",
@@ -2381,6 +2435,8 @@
   },
   {
     "match_id": "FB7162",
+    "match_date": "2026-10-18",
+    "match_time": "05:30",
     "home_team": "明尼路",
     "away_team": "哥列迪巴",
     "half_time_score": "0:0",
@@ -2487,6 +2543,8 @@
   },
   {
     "match_id": "FB7165",
+    "match_date": "2026-10-18",
+    "match_time": "06:30",
     "home_team": "帕拉尼恩斯",
     "away_team": "彭美拉斯",
     "half_time_score": "0:2",
@@ -2593,6 +2651,8 @@
   },
   {
     "match_id": "FB7144",
+    "match_date": "2026-10-18",
+    "match_time": "06:58",
     "home_team": "圖庫曼體育會",
     "away_team": "羅沙里奧中央",
     "half_time_score": "2:2",
@@ -2661,6 +2721,8 @@
   },
   {
     "match_id": "FB7139",
+    "match_date": "2026-10-18",
+    "match_time": "06:58",
     "home_team": "沙士菲",
     "away_team": "甘拿斯亞文度沙",
     "half_time_score": "0:0",
@@ -2729,6 +2791,8 @@
   },
   {
     "match_id": "FB7116",
+    "match_date": "2026-10-18",
+    "match_time": "07:00",
     "home_team": "拿根亞",
     "away_team": "克雷塔羅",
     "half_time_score": "2:0",
@@ -2797,6 +2861,8 @@
   },
   {
     "match_id": "FB7176",
+    "match_date": "2026-10-18",
+    "match_time": "07:07",
     "home_team": "瓜達拉哈拉",
     "away_team": "堤格雷斯",
     "half_time_score": "0:1",
@@ -2871,6 +2937,8 @@
   },
   {
     "match_id": "FB7064",
+    "match_date": "2026-10-18",
+    "match_time": "07:15",
     "home_team": "威靈頓鳳凰女足",
     "away_team": "墨爾本城女足",
     "half_time_score": "0:0",
@@ -2977,6 +3045,8 @@
   },
   {
     "match_id": "FB7112",
+    "match_date": "2026-10-18",
+    "match_time": "07:30",
     "home_team": "阿特蘭大聯",
     "away_team": "國際邁亞密",
     "half_time_score": "0:1",
@@ -3083,6 +3153,8 @@
   },
   {
     "match_id": "FB7100",
+    "match_date": "2026-10-18",
+    "match_time": "07:30",
     "home_team": "新英倫革命",
     "away_team": "芝加哥火燄",
     "half_time_score": "1:0",
@@ -3183,6 +3255,8 @@
   },
   {
     "match_id": "FB7218",
+    "match_date": "2026-10-18",
+    "match_time": "07:30",
     "home_team": "紐約城",
     "away_team": "FC洛杉磯",
     "half_time_score": "0:1",
@@ -3289,6 +3363,8 @@
   },
   {
     "match_id": "FB7101",
+    "match_date": "2026-10-18",
+    "match_time": "07:30",
     "home_team": "紐約紅牛",
     "away_team": "FC多倫多",
     "half_time_score": "0:1",
@@ -3389,6 +3465,8 @@
   },
   {
     "match_id": "FB7104",
+    "match_date": "2026-10-18",
+    "match_time": "07:30",
     "home_team": "奧蘭多城",
     "away_team": "華盛頓聯隊",
     "half_time_score": "2:1",
@@ -3489,6 +3567,8 @@
   },
   {
     "match_id": "FB7163",
+    "match_date": "2026-10-18",
+    "match_time": "08:00",
     "home_team": "聖保羅",
     "away_team": "華斯高",
     "half_time_score": "0:0",
@@ -3563,6 +3643,8 @@
   },
   {
     "match_id": "FB7188",
+    "match_date": "2026-10-18",
+    "match_time": "08:00",
     "home_team": "FC塔爾薩",
     "away_team": "奧克蘭根源",
     "half_time_score": "1:1",
@@ -3631,6 +3713,8 @@
   },
   {
     "match_id": "FB7109",
+    "match_date": "2026-10-18",
+    "match_time": "08:30",
     "home_team": "FC奧斯汀",
     "away_team": "溫哥華白帽",
     "half_time_score": "1:0",
@@ -3737,6 +3821,8 @@
   },
   {
     "match_id": "FB7108",
+    "match_date": "2026-10-18",
+    "match_time": "08:30",
     "home_team": "侯斯頓戴拿模",
     "away_team": "FC達拉斯",
     "half_time_score": "0:1",
@@ -3837,6 +3923,8 @@
   },
   {
     "match_id": "FB7103",
+    "match_date": "2026-10-18",
+    "match_time": "08:30",
     "home_team": "肯薩斯體育會",
     "away_team": "皇家鹽湖城",
     "half_time_score": "1:2",
@@ -3943,6 +4031,8 @@
   },
   {
     "match_id": "FB7211",
+    "match_date": "2026-10-18",
+    "match_time": "09:00",
     "home_team": "坎昆FC",
     "away_team": "雲拿度斯",
     "half_time_score": "1:0",
@@ -4011,6 +4101,8 @@
   },
   {
     "match_id": "FB7115",
+    "match_date": "2026-10-18",
+    "match_time": "09:00",
     "home_team": "利昂",
     "away_team": "CF 阿美利加",
     "half_time_score": "0:2",
@@ -4117,6 +4209,8 @@
   },
   {
     "match_id": "FB7114",
+    "match_date": "2026-10-18",
+    "match_time": "09:00",
     "home_team": "托盧卡",
     "away_team": "聖路易斯體育會",
     "half_time_score": "0:0",
@@ -4191,6 +4285,8 @@
   },
   {
     "match_id": "FB6802",
+    "match_date": "2026-10-18",
+    "match_time": "10:00",
     "home_team": "威靈頓鳳凰",
     "away_team": "墨爾本勝利",
     "half_time_score": "1:1",
@@ -4297,6 +4393,8 @@
   },
   {
     "match_id": "FB7204",
+    "match_date": "2026-10-18",
+    "match_time": "10:00",
     "home_team": "蒙特雷灣",
     "away_team": "科羅拉多泉坡路",
     "half_time_score": "0:1",
@@ -4365,6 +4463,8 @@
   },
   {
     "match_id": "FB7212",
+    "match_date": "2026-10-18",
+    "match_time": "10:00",
     "home_team": "SC奧蘭治郡",
     "away_team": "鳳凰城復活",
     "half_time_score": "0:2",
@@ -4439,6 +4539,8 @@
   },
   {
     "match_id": "FB7110",
+    "match_date": "2026-10-18",
+    "match_time": "10:30",
     "home_team": "洛杉磯銀河",
     "away_team": "聖地亞哥FC",
     "half_time_score": "2:2",
@@ -4545,6 +4647,8 @@
   },
   {
     "match_id": "FB7106",
+    "match_date": "2026-10-18",
+    "match_time": "10:30",
     "home_team": "波特蘭伐木者",
     "away_team": "科羅拉多急流",
     "half_time_score": "0:0",
@@ -4651,6 +4755,8 @@
   },
   {
     "match_id": "FB7107",
+    "match_date": "2026-10-18",
+    "match_time": "10:30",
     "home_team": "聖荷西地震",
     "away_team": "拿舒維爾",
     "half_time_score": "0:1",
@@ -4757,6 +4863,8 @@
   },
   {
     "match_id": "FB7105",
+    "match_date": "2026-10-18",
+    "match_time": "10:30",
     "home_team": "西雅圖海灣者",
     "away_team": "CF蒙特利爾",
     "half_time_score": "0:1",
@@ -4857,6 +4965,8 @@
   },
   {
     "match_id": "FB7173",
+    "match_date": "2026-10-18",
+    "match_time": "11:00",
     "home_team": "杜蘭高蠍子",
     "away_team": "塔巴迪奧",
     "half_time_score": "2:0",
@@ -4925,6 +5035,8 @@
   },
   {
     "match_id": "FB7117",
+    "match_date": "2026-10-18",
+    "match_time": "11:10",
     "home_team": "藍十字",
     "away_team": "祖亞雷斯",
     "half_time_score": "3:0",
@@ -5031,6 +5143,8 @@
   },
   {
     "match_id": "FB7049",
+    "match_date": "2026-10-18",
+    "match_time": "12:00",
     "home_team": "悉尼聯",
     "away_team": "坎培拉克羅地亞",
     "half_time_score": "0:0",
@@ -5137,6 +5251,8 @@
   },
   {
     "match_id": "FB7225",
+    "match_date": "2026-10-18",
+    "match_time": "12:00",
     "home_team": "千葉市原女足",
     "away_team": "浦和紅鑽女足",
     "half_time_score": "2:1",
@@ -5195,6 +5311,8 @@
   },
   {
     "match_id": "FB7226",
+    "match_date": "2026-10-18",
+    "match_time": "12:00",
     "home_team": "RB大宮松鼠女足",
     "away_team": "埼玉伊分女足",
     "half_time_score": "0:0",
@@ -5253,6 +5371,8 @@
   },
   {
     "match_id": "FB7039",
+    "match_date": "2026-10-18",
+    "match_time": "12:00",
     "home_team": "磐城FC",
     "away_team": "甲府風林",
     "half_time_score": "3:0",
@@ -5359,6 +5479,8 @@
   },
   {
     "match_id": "FB7011",
+    "match_date": "2026-10-18",
+    "match_time": "12:55",
     "home_team": "岡山綠雉",
     "away_team": "神戶勝利船",
     "half_time_score": "0:0",
@@ -5465,6 +5587,8 @@
   },
   {
     "match_id": "FB7015",
+    "match_date": "2026-10-18",
+    "match_time": "13:00",
     "home_team": "大田市民",
     "away_team": "FC光州",
     "half_time_score": "0:2",
@@ -5539,6 +5663,8 @@
   },
   {
     "match_id": "FB7013",
+    "match_date": "2026-10-18",
+    "match_time": "13:00",
     "home_team": "全北汽車",
     "away_team": "濟州SK",
     "half_time_score": "1:1",
@@ -5645,6 +5771,8 @@
   },
   {
     "match_id": "FB7012",
+    "match_date": "2026-10-18",
+    "match_time": "13:00",
     "home_team": "首爾衣戀",
     "away_team": "金海FC",
     "half_time_score": "2:1",
@@ -5713,6 +5841,8 @@
   },
   {
     "match_id": "FB7014",
+    "match_date": "2026-10-18",
+    "match_time": "13:00",
     "home_team": "水原藍翼",
     "away_team": "FC華城",
     "half_time_score": "3:0",
@@ -5781,6 +5911,8 @@
   },
   {
     "match_id": "FB7067",
+    "match_date": "2026-10-18",
+    "match_time": "13:30",
     "home_team": "FC悉尼女足",
     "away_team": "阿德萊德聯女足",
     "half_time_score": "1:1",
@@ -5887,6 +6019,8 @@
   },
   {
     "match_id": "FB7230",
+    "match_date": "2026-10-18",
+    "match_time": "14:00",
     "home_team": "恩尼些爾女足",
     "away_team": "彼爾姆紅星2005女足",
     "half_time_score": "0:1",
@@ -5950,7 +6084,117 @@
     "半場角球大細": null
   },
   {
+    "match_id": "FB7054",
+    "match_date": "2026-10-18",
+    "match_time": "15:00",
+    "home_team": "FC獅子",
+    "away_team": "南霍巴特",
+    "half_time_score": "1:2",
+    "full_time_score": "1:2",
+    "主客和": {
+      "主勝": 1.09,
+      "和": 7.5,
+      "客勝": 12.0
+    },
+    "半場主客和": {
+      "主勝": 1.31,
+      "和": 3.6,
+      "客勝": 9.75
+    },
+    "讓球主客和": [
+      {
+        "主隊讓球": "-2",
+        "主勝": 1.92,
+        "和": 4.15,
+        "客勝": 2.63
+      },
+      {
+        "主隊讓球": "-3",
+        "主勝": 3.0,
+        "和": 4.55,
+        "客勝": 1.7
+      }
+    ],
+    "讓球": [
+      {
+        "主隊讓球": "-2/-2.5",
+        "主勝": 1.82,
+        "客勝": 1.95
+      }
+    ],
+    "入球大細": [
+      {
+        "盤口": "3.5",
+        "大": 1.57,
+        "細": 2.25
+      },
+      {
+        "盤口": "3.5/4",
+        "大": 1.7,
+        "細": 2.02
+      },
+      {
+        "盤口": "4.5",
+        "大": 2.33,
+        "細": 1.53
+      }
+    ],
+    "半場入球大細": [
+      {
+        "盤口": "1.5",
+        "大": 1.64,
+        "細": 2.12
+      },
+      {
+        "盤口": "1.5/2",
+        "大": 1.86,
+        "細": 1.84
+      },
+      {
+        "盤口": "2.5",
+        "大": 3.1,
+        "細": 1.31
+      }
+    ],
+    "角球大細": [
+      {
+        "盤口": "11.5",
+        "大": 2.19,
+        "細": 1.6
+      },
+      {
+        "盤口": "12.5",
+        "大": 2.7,
+        "細": 1.39
+      },
+      {
+        "盤口": "14.5",
+        "大": 4.15,
+        "細": 1.17
+      }
+    ],
+    "半場角球大細": [
+      {
+        "盤口": "5.5",
+        "大": 2.12,
+        "細": 1.64
+      },
+      {
+        "盤口": "6.5",
+        "大": 2.98,
+        "細": 1.33
+      },
+      {
+        "盤口": "7.5",
+        "大": 4.15,
+        "細": 1.17
+      }
+    ]
+  },
+  {
     "match_id": "FB7082",
+    "match_date": "2026-10-18",
+    "match_time": "15:00",
     "home_team": "町田澤維亞",
     "away_team": "福岡黃蜂",
     "half_time_score": "1:0",
@@ -6056,7 +6300,581 @@
     ]
   },
   {
+    "match_id": "FB7026",
+    "match_date": "2026-10-18",
+    "match_time": "15:30",
+    "home_team": "FC首爾",
+    "away_team": "金泉尚武",
+    "half_time_score": "1:1",
+    "full_time_score": "2:2",
+    "主客和": {
+      "主勝": 1.26,
+      "和": 4.9,
+      "客勝": 7.25
+    },
+    "半場主客和": {
+      "主勝": 1.65,
+      "和": 2.57,
+      "客勝": 6.8
+    },
+    "讓球主客和": [
+      {
+        "主隊讓球": "-1",
+        "主勝": 1.86,
+        "和": 3.7,
+        "客勝": 3.0
+      },
+      {
+        "主隊讓球": "-2",
+        "主勝": 3.2,
+        "和": 4.1,
+        "客勝": 1.71
+      }
+    ],
+    "讓球": [
+      {
+        "主隊讓球": "-1/-1.5",
+        "主勝": 1.76,
+        "客勝": 2.02
+      }
+    ],
+    "入球大細": [
+      {
+        "盤口": "2.5",
+        "大": 1.44,
+        "細": 2.58
+      },
+      {
+        "盤口": "3/3.5",
+        "大": 1.95,
+        "細": 1.75
+      },
+      {
+        "盤口": "3.5",
+        "大": 2.15,
+        "細": 1.62
+      }
+    ],
+    "半場入球大細": [
+      {
+        "盤口": "1.5",
+        "大": 2.19,
+        "細": 1.6
+      },
+      {
+        "盤口": "1.5/2",
+        "大": 2.65,
+        "細": 1.41
+      },
+      {
+        "盤口": "2.5",
+        "大": 4.4,
+        "細": 1.15
+      }
+    ],
+    "角球大細": [
+      {
+        "盤口": "9.5",
+        "大": 1.98,
+        "細": 1.73
+      },
+      {
+        "盤口": "10.5",
+        "大": 2.48,
+        "細": 1.47
+      },
+      {
+        "盤口": "13.5",
+        "大": 4.75,
+        "細": 1.13
+      }
+    ],
+    "半場角球大細": [
+      {
+        "盤口": "3.5",
+        "大": 1.67,
+        "細": 2.07
+      },
+      {
+        "盤口": "4.5",
+        "大": 2.38,
+        "細": 1.51
+      },
+      {
+        "盤口": "5.5",
+        "大": 3.4,
+        "細": 1.26
+      }
+    ]
+  },
+  {
+    "match_id": "FB7068",
+    "match_date": "2026-10-18",
+    "match_time": "15:30",
+    "home_team": "FC江原",
+    "away_team": "仁川聯",
+    "half_time_score": "1:1",
+    "full_time_score": "1:1",
+    "主客和": {
+      "主勝": 2.2,
+      "和": 2.8,
+      "客勝": 3.1
+    },
+    "半場主客和": {
+      "主勝": 2.93,
+      "和": 1.84,
+      "客勝": 3.9
+    },
+    "讓球主客和": [
+      {
+        "主隊讓球": "+1",
+        "主勝": 1.28,
+        "和": 4.6,
+        "客勝": 7.0
+      },
+      {
+        "主隊讓球": "-1",
+        "主勝": 4.55,
+        "和": 3.65,
+        "客勝": 1.54
+      }
+    ],
+    "讓球": [
+      {
+        "主隊讓球": "0/-0.5",
+        "主勝": 1.96,
+        "客勝": 1.81
+      }
+    ],
+    "入球大細": [
+      {
+        "盤口": "2/2.5",
+        "大": 2.01,
+        "細": 1.71
+      },
+      {
+        "盤口": "2.5",
+        "大": 2.3,
+        "細": 1.54
+      },
+      {
+        "盤口": "3.5",
+        "大": 3.95,
+        "細": 1.19
+      }
+    ],
+    "半場入球大細": [
+      {
+        "盤口": "1/1.5",
+        "大": 2.8,
+        "細": 1.37
+      },
+      {
+        "盤口": "1.5",
+        "大": 3.25,
+        "細": 1.28
+      },
+      {
+        "盤口": "1.5/2",
+        "大": 4.05,
+        "細": 1.18
+      }
+    ],
+    "角球大細": [
+      {
+        "盤口": "8.5",
+        "大": 1.89,
+        "細": 1.81
+      },
+      {
+        "盤口": "9.5",
+        "大": 2.4,
+        "細": 1.5
+      },
+      {
+        "盤口": "12.5",
+        "大": 4.75,
+        "細": 1.13
+      }
+    ],
+    "半場角球大細": [
+      {
+        "盤口": "3.5",
+        "大": 1.85,
+        "細": 1.85
+      },
+      {
+        "盤口": "4.5",
+        "大": 2.75,
+        "細": 1.38
+      },
+      {
+        "盤口": "5.5",
+        "大": 3.9,
+        "細": 1.2
+      }
+    ]
+  },
+  {
+    "match_id": "FB7016",
+    "match_date": "2026-10-18",
+    "match_time": "15:30",
+    "home_team": "浦項制鐵",
+    "away_team": "FC安養",
+    "half_time_score": "0:0",
+    "full_time_score": "0:0",
+    "主客和": {
+      "主勝": 2.07,
+      "和": 3.0,
+      "客勝": 3.15
+    },
+    "半場主客和": {
+      "主勝": 2.73,
+      "和": 1.94,
+      "客勝": 3.85
+    },
+    "讓球主客和": [
+      {
+        "主隊讓球": "+1",
+        "主勝": 1.26,
+        "和": 4.75,
+        "客勝": 7.25
+      },
+      {
+        "主隊讓球": "-1",
+        "主勝": 4.1,
+        "和": 3.65,
+        "客勝": 1.6
+      }
+    ],
+    "讓球": [
+      {
+        "主隊讓球": "0/-0.5",
+        "主勝": 1.88,
+        "客勝": 1.88
+      }
+    ],
+    "入球大細": [
+      {
+        "盤口": "2/2.5",
+        "大": 1.84,
+        "細": 1.86
+      },
+      {
+        "盤口": "2.5",
+        "大": 2.1,
+        "細": 1.65
+      },
+      {
+        "盤口": "3.5",
+        "大": 3.55,
+        "細": 1.24
+      }
+    ],
+    "半場入球大細": [
+      {
+        "盤口": "1/1.5",
+        "大": 2.62,
+        "細": 1.42
+      },
+      {
+        "盤口": "1.5",
+        "大": 3.05,
+        "細": 1.32
+      },
+      {
+        "盤口": "1.5/2",
+        "大": 3.9,
+        "細": 1.2
+      }
+    ],
+    "角球大細": [
+      {
+        "盤口": "8.5",
+        "大": 1.89,
+        "細": 1.81
+      },
+      {
+        "盤口": "9.5",
+        "大": 2.4,
+        "細": 1.5
+      },
+      {
+        "盤口": "12.5",
+        "大": 4.75,
+        "細": 1.13
+      }
+    ],
+    "半場角球大細": [
+      {
+        "盤口": "3.5",
+        "大": 1.85,
+        "細": 1.85
+      },
+      {
+        "盤口": "4.5",
+        "大": 2.75,
+        "細": 1.38
+      },
+      {
+        "盤口": "5.5",
+        "大": 3.95,
+        "細": 1.19
+      }
+    ]
+  },
+  {
+    "match_id": "FB7062",
+    "match_date": "2026-10-18",
+    "match_time": "15:30",
+    "home_team": "釜山偶像",
+    "away_team": "全南天龍",
+    "half_time_score": "0:0",
+    "full_time_score": "2:1",
+    "主客和": {
+      "主勝": 1.65,
+      "和": 3.5,
+      "客勝": 4.1
+    },
+    "半場主客和": {
+      "主勝": 2.15,
+      "和": 2.16,
+      "客勝": 4.65
+    },
+    "讓球主客和": [
+      {
+        "主隊讓球": "-1",
+        "主勝": 2.83,
+        "和": 3.5,
+        "客勝": 1.99
+      },
+      {
+        "主隊讓球": "-2",
+        "主勝": 5.8,
+        "和": 4.85,
+        "客勝": 1.31
+      }
+    ],
+    "讓球": null,
+    "入球大細": [
+      {
+        "盤口": "2.5",
+        "大": 1.71,
+        "細": 2.01
+      },
+      {
+        "盤口": "2.5/3",
+        "大": 1.91,
+        "細": 1.79
+      },
+      {
+        "盤口": "3.5",
+        "大": 2.75,
+        "細": 1.38
+      }
+    ],
+    "半場入球大細": [
+      {
+        "盤口": "1.5",
+        "大": 2.62,
+        "細": 1.42
+      },
+      {
+        "盤口": "1.5/2",
+        "大": 3.25,
+        "細": 1.28
+      },
+      {
+        "盤口": "2.5",
+        "大": 5.6,
+        "細": 1.09
+      }
+    ],
+    "角球大細": null,
+    "半場角球大細": null
+  },
+  {
+    "match_id": "FB7227",
+    "match_date": "2026-10-18",
+    "match_time": "18:00",
+    "home_team": "艾拉維斯女足",
+    "away_team": "西維爾女足",
+    "half_time_score": "0:1",
+    "full_time_score": "1:1",
+    "主客和": {
+      "主勝": 2.21,
+      "和": 3.1,
+      "客勝": 2.72
+    },
+    "半場主客和": {
+      "主勝": 2.9,
+      "和": 1.93,
+      "客勝": 3.45
+    },
+    "讓球主客和": [
+      {
+        "主隊讓球": "+1",
+        "主勝": 1.34,
+        "和": 4.4,
+        "客勝": 5.6
+      },
+      {
+        "主隊讓球": "-1",
+        "主勝": 4.4,
+        "和": 3.8,
+        "客勝": 1.51
+      }
+    ],
+    "讓球": [
+      {
+        "主隊讓球": "0/-0.5",
+        "主勝": 2.0,
+        "客勝": 1.72
+      }
+    ],
+    "入球大細": [
+      {
+        "盤口": "2.5",
+        "大": 2.0,
+        "細": 1.72
+      },
+      {
+        "盤口": "2.5/3",
+        "大": 2.25,
+        "細": 1.57
+      },
+      {
+        "盤口": "3.5",
+        "大": 3.35,
+        "細": 1.27
+      }
+    ],
+    "半場入球大細": [
+      {
+        "盤口": "1/1.5",
+        "大": 2.45,
+        "細": 1.48
+      },
+      {
+        "盤口": "1.5",
+        "大": 2.98,
+        "細": 1.33
+      },
+      {
+        "盤口": "1.5/2",
+        "大": 3.9,
+        "細": 1.2
+      }
+    ],
+    "角球大細": [
+      {
+        "盤口": "9.5",
+        "大": 2.01,
+        "細": 1.71
+      },
+      {
+        "盤口": "10.5",
+        "大": 2.55,
+        "細": 1.45
+      },
+      {
+        "盤口": "13.5",
+        "大": 4.95,
+        "細": 1.12
+      }
+    ],
+    "半場角球大細": [
+      {
+        "盤口": "4.5",
+        "大": 2.02,
+        "細": 1.7
+      },
+      {
+        "盤口": "5.5",
+        "大": 2.88,
+        "細": 1.35
+      },
+      {
+        "盤口": "6.5",
+        "大": 3.95,
+        "細": 1.19
+      }
+    ]
+  },
+  {
+    "match_id": "FB7228",
+    "match_date": "2026-10-18",
+    "match_time": "18:00",
+    "home_team": "皇家蘇斯達女足",
+    "away_team": "巴塞隆拿女足",
+    "half_time_score": "2:1",
+    "full_time_score": "2:1",
+    "主客和": {
+      "主勝": 24.0,
+      "和": 9.75,
+      "客勝": 1.03
+    },
+    "半場主客和": {
+      "主勝": 18.0,
+      "和": 4.7,
+      "客勝": 1.13
+    },
+    "讓球主客和": [
+      {
+        "主隊讓球": "+4",
+        "主勝": 1.63,
+        "和": 4.8,
+        "客勝": 3.0
+      },
+      {
+        "主隊讓球": "+3",
+        "主勝": 2.41,
+        "和": 4.4,
+        "客勝": 1.96
+      }
+    ],
+    "讓球": null,
+    "入球大細": [
+      {
+        "盤口": "4/4.5",
+        "大": 1.73,
+        "細": 1.98
+      },
+      {
+        "盤口": "4.5",
+        "大": 1.88,
+        "細": 1.82
+      },
+      {
+        "盤口": "5.5",
+        "大": 2.88,
+        "細": 1.35
+      }
+    ],
+    "半場入球大細": [
+      {
+        "盤口": "1.5",
+        "大": 1.46,
+        "細": 2.5
+      },
+      {
+        "盤口": "2.5",
+        "大": 2.38,
+        "細": 1.51
+      },
+      {
+        "盤口": "3.5",
+        "大": 4.3,
+        "細": 1.16
+      }
+    ],
+    "角球大細": null,
+    "半場角球大細": null
+  },
+  {
     "match_id": "FB7042",
+    "match_date": "2026-10-17",
+    "match_time": "00:00",
     "home_team": "阿里辛特女足",
     "away_team": "洛亞女足",
     "half_time_score": "1:0",
@@ -6121,6 +6939,8 @@
   },
   {
     "match_id": "FB6945",
+    "match_date": "2026-10-17",
+    "match_time": "00:30",
     "home_team": "科特布斯",
     "away_team": "紐倫堡",
     "half_time_score": "0:0",
@@ -6227,6 +7047,8 @@
   },
   {
     "match_id": "FB6940",
+    "match_date": "2026-10-17",
+    "match_time": "00:30",
     "home_team": "基爾",
     "away_team": "哈化柏林",
     "half_time_score": "0:0",
@@ -6333,6 +7155,8 @@
   },
   {
     "match_id": "FB6956",
+    "match_date": "2026-10-17",
+    "match_time": "00:45",
     "home_team": "艾沙哈尼亞",
     "away_team": "多哈艾阿拉比",
     "half_time_score": "0:2",
@@ -6401,6 +7225,8 @@
   },
   {
     "match_id": "FB6927",
+    "match_date": "2026-10-17",
+    "match_time": "01:00",
     "home_team": "賀森斯",
     "away_team": "蘭達斯",
     "half_time_score": "0:0",
@@ -6469,6 +7295,8 @@
   },
   {
     "match_id": "FB6941",
+    "match_date": "2026-10-17",
+    "match_time": "01:00",
     "home_team": "布洛馬波卡納",
     "away_team": "佐加頓斯",
     "half_time_score": "0:1",
@@ -6575,6 +7403,8 @@
   },
   {
     "match_id": "FB6923",
+    "match_date": "2026-10-17",
+    "match_time": "01:30",
     "home_team": "維也納迅速",
     "away_team": "哈特堡",
     "half_time_score": "2:0",
@@ -6649,6 +7479,8 @@
   },
   {
     "match_id": "FB6931",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "丹保殊",
     "away_team": "奧斯",
     "half_time_score": "2:0",
@@ -6723,6 +7555,8 @@
   },
   {
     "match_id": "FB6934",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "FC燕豪芬",
     "away_team": "維迪斯",
     "half_time_score": "0:1",
@@ -6791,6 +7625,8 @@
   },
   {
     "match_id": "FB6933",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "靴蒙特",
     "away_team": "NAC",
     "half_time_score": "0:1",
@@ -6859,6 +7695,8 @@
   },
   {
     "match_id": "FB6930",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "芬洛",
     "away_team": "阿爾克馬爾青年隊",
     "half_time_score": "1:2",
@@ -6927,6 +7765,8 @@
   },
   {
     "match_id": "FB6921",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "海倫芬",
     "away_team": "精英隊",
     "half_time_score": "1:0",
@@ -7033,6 +7873,8 @@
   },
   {
     "match_id": "FB6928",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "FC安納西",
     "away_team": "南錫",
     "half_time_score": "0:1",
@@ -7101,6 +7943,8 @@
   },
   {
     "match_id": "FB6929",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "甘岡",
     "away_team": "FC波城",
     "half_time_score": "0:2",
@@ -7175,6 +8019,8 @@
   },
   {
     "match_id": "FB6932",
+    "match_date": "2026-10-17",
+    "match_time": "02:00",
     "home_team": "蘭斯",
     "away_team": "迪安",
     "half_time_score": "3:1",
@@ -7243,6 +8089,8 @@
   },
   {
     "match_id": "FB6920",
+    "match_date": "2026-10-17",
+    "match_time": "02:30",
     "home_team": "法蘭克福",
     "away_team": "科隆",
     "half_time_score": "0:0",
@@ -7349,6 +8197,8 @@
   },
   {
     "match_id": "FB6935",
+    "match_date": "2026-10-17",
+    "match_time": "02:30",
     "home_team": "雷加利斯",
     "away_team": "科爾多瓦",
     "half_time_score": "0:0",
@@ -7417,6 +8267,8 @@
   },
   {
     "match_id": "FB6922",
+    "match_date": "2026-10-17",
+    "match_time": "02:45",
     "home_team": "勒芒",
     "away_team": "圖盧茲",
     "half_time_score": "0:0",
@@ -7523,6 +8375,8 @@
   },
   {
     "match_id": "FB6925",
+    "match_date": "2026-10-17",
+    "match_time": "02:45",
     "home_team": "費辛隆尼",
     "away_team": "薩斯索羅",
     "half_time_score": "3:2",
@@ -7629,6 +8483,8 @@
   },
   {
     "match_id": "FB6957",
+    "match_date": "2026-10-17",
+    "match_time": "03:00",
     "home_team": "般尼",
     "away_team": "狼隊",
     "half_time_score": "1:1",
@@ -7703,6 +8559,8 @@
   },
   {
     "match_id": "FB6924",
+    "match_date": "2026-10-17",
+    "match_time": "03:00",
     "home_team": "拉科魯尼亞",
     "away_team": "利雲特",
     "half_time_score": "0:0",
@@ -7809,6 +8667,8 @@
   },
   {
     "match_id": "FB7084",
+    "match_date": "2026-10-17",
+    "match_time": "04:00",
     "home_team": "卡利女足",
     "away_team": "利伯泰迪女足",
     "half_time_score": "0:0",
@@ -7883,6 +8743,8 @@
   },
   {
     "match_id": "FB6955",
+    "match_date": "2026-10-17",
+    "match_time": "05:57",
     "home_team": "切洛",
     "away_team": "切洛拉高",
     "half_time_score": "1:0",
@@ -7951,6 +8813,8 @@
   },
   {
     "match_id": "FB6937",
+    "match_date": "2026-10-17",
+    "match_time": "05:58",
     "home_team": "防衛者",
     "away_team": "科爾多瓦學院",
     "half_time_score": "0:1",
@@ -8057,6 +8921,8 @@
   },
   {
     "match_id": "FB6939",
+    "match_date": "2026-10-17",
+    "match_time": "07:00",
     "home_team": "米拉索",
     "away_team": "國際體育會",
     "half_time_score": "0:0",
@@ -8163,6 +9029,8 @@
   },
   {
     "match_id": "FB6936",
+    "match_date": "2026-10-17",
+    "match_time": "07:28",
     "home_team": "利斯菲體育會",
     "away_team": "福塔雷薩",
     "half_time_score": "0:1",
@@ -8269,6 +9137,8 @@
   },
   {
     "match_id": "FB7085",
+    "match_date": "2026-10-17",
+    "match_time": "08:00",
     "home_team": "利加大學女足",
     "away_team": "高士路女足",
     "half_time_score": "1:1",
@@ -8337,6 +9207,8 @@
   },
   {
     "match_id": "FB7083",
+    "match_date": "2026-10-17",
+    "match_time": "08:00",
     "home_team": "蒙特維多國民隊女足",
     "away_team": "智利大學女足",
     "half_time_score": "0:0",
@@ -8405,6 +9277,8 @@
   },
   {
     "match_id": "FB7177",
+    "match_date": "2026-10-17",
+    "match_time": "08:00",
     "home_team": "波士頓傳承女足",
     "away_team": "路易斯維爾競賽女足",
     "half_time_score": "1:1",
@@ -8501,6 +9375,8 @@
   },
   {
     "match_id": "FB6938",
+    "match_date": "2026-10-17",
+    "match_time": "08:28",
     "home_team": "小保加",
     "away_team": "泰拿尼斯",
     "half_time_score": "1:1",
@@ -8607,6 +9483,8 @@
   },
   {
     "match_id": "FB6919",
+    "match_date": "2026-10-17",
+    "match_time": "09:00",
     "home_team": "尼卡沙",
     "away_team": "阿特拿斯",
     "half_time_score": "0:1",
@@ -8713,6 +9591,8 @@
   },
   {
     "match_id": "FB7223",
+    "match_date": "2026-10-17",
+    "match_time": "10:59",
     "home_team": "卡拉卡斯女足",
     "away_team": "聖達菲女足",
     "half_time_score": "1:2",
@@ -8781,6 +9661,8 @@
   },
   {
     "match_id": "FB6942",
+    "match_date": "2026-10-17",
+    "match_time": "11:00",
     "home_team": "拉巴斯體育會",
     "away_team": "特拉斯卡拉",
     "half_time_score": "1:2",
@@ -8849,6 +9731,8 @@
   },
   {
     "match_id": "FB6958",
+    "match_date": "2026-10-17",
+    "match_time": "11:00",
     "home_team": "阿蘭特",
     "away_team": "普馬斯",
     "half_time_score": "1:1",
@@ -8955,6 +9839,8 @@
   },
   {
     "match_id": "FB6918",
+    "match_date": "2026-10-17",
+    "match_time": "11:00",
     "home_team": "迪祖亞拿",
     "away_team": "普埃布拉",
     "half_time_score": "0:0",
@@ -9061,6 +9947,8 @@
   },
   {
     "match_id": "FB6800",
+    "match_date": "2026-10-17",
+    "match_time": "12:00",
     "home_team": "奧克蘭FC",
     "away_team": "墨爾本城",
     "half_time_score": "1:1",
@@ -9167,6 +10055,8 @@
   },
   {
     "match_id": "FB7060",
+    "match_date": "2026-10-17",
+    "match_time": "12:00",
     "home_team": "紐卡素噴射機女足",
     "away_team": "珀斯光輝女足",
     "half_time_score": "0:1",
@@ -9273,6 +10163,8 @@
   },
   {
     "match_id": "FB7059",
+    "match_date": "2026-10-17",
+    "match_time": "12:00",
     "home_team": "西悉尼流浪者女足",
     "away_team": "墨爾本勝利女足",
     "half_time_score": "0:1",
@@ -9379,6 +10271,8 @@
   },
   {
     "match_id": "FB7061",
+    "match_date": "2026-10-17",
+    "match_time": "12:00",
     "home_team": "布羅德梅多魔術",
     "away_team": "西部APIA FC",
     "half_time_score": "0:0",
@@ -9447,6 +10341,8 @@
   },
   {
     "match_id": "FB7044",
+    "match_date": "2026-10-17",
+    "match_time": "12:00",
     "home_team": "薩瑟蘭鯊魚",
     "away_team": "南墨爾本",
     "half_time_score": "0:0",
@@ -9515,6 +10411,8 @@
   },
   {
     "match_id": "FB7040",
+    "match_date": "2026-10-17",
+    "match_time": "12:00",
     "home_team": "清水心跳",
     "away_team": "大阪飛腳",
     "half_time_score": "2:0",
@@ -9621,6 +10519,8 @@
   },
   {
     "match_id": "FB6998",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "千葉市原",
     "away_team": "橫濱水手",
     "half_time_score": "0:0",
@@ -9727,6 +10627,8 @@
   },
   {
     "match_id": "FB7000",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "廣島三箭",
     "away_team": "京都不死鳥",
     "half_time_score": "0:0",
@@ -9833,6 +10735,8 @@
   },
   {
     "match_id": "FB6995",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "東京綠茵",
     "away_team": "FC東京",
     "half_time_score": "0:1",
@@ -9939,6 +10843,8 @@
   },
   {
     "match_id": "FB7037",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "FC今治",
     "away_team": "八戶雲羅里",
     "half_time_score": "1:1",
@@ -10039,6 +10945,8 @@
   },
   {
     "match_id": "FB7035",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "藤枝MYFC",
     "away_team": "山形山神",
     "half_time_score": "0:0",
@@ -10139,6 +11047,8 @@
   },
   {
     "match_id": "FB6997",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "北海道札幌岡薩多",
     "away_team": "秋田藍閃電",
     "half_time_score": "0:0",
@@ -10239,6 +11149,8 @@
   },
   {
     "match_id": "FB7034",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "大分三神",
     "away_team": "新潟天鵝",
     "half_time_score": "2:1",
@@ -10339,6 +11251,8 @@
   },
   {
     "match_id": "FB7036",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "鳥棲砂岩",
     "away_team": "RB大宮松鼠",
     "half_time_score": "1:0",
@@ -10445,6 +11359,8 @@
   },
   {
     "match_id": "FB7038",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "櫪木城",
     "away_team": "FC橫濱",
     "half_time_score": "0:1",
@@ -10551,6 +11467,8 @@
   },
   {
     "match_id": "FB6996",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "仙台維加泰",
     "away_team": "德島漩渦",
     "half_time_score": "0:0",
@@ -10651,6 +11569,8 @@
   },
   {
     "match_id": "FB6994",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "FC大邱",
     "away_team": "忠北清州",
     "half_time_score": "1:1",
@@ -10719,6 +11639,8 @@
   },
   {
     "match_id": "FB6999",
+    "match_date": "2026-10-17",
+    "match_time": "13:00",
     "home_team": "FC城南",
     "away_team": "FC水原",
     "half_time_score": "0:1",
@@ -10787,6 +11709,8 @@
   },
   {
     "match_id": "FB6799",
+    "match_date": "2026-10-17",
+    "match_time": "14:00",
     "home_team": "FC麥克阿瑟",
     "away_team": "珀斯光輝",
     "half_time_score": "0:0",
@@ -10893,6 +11817,8 @@
   },
   {
     "match_id": "FB7063",
+    "match_date": "2026-10-17",
+    "match_time": "14:00",
     "home_team": "布里斯班獅吼女足",
     "away_team": "中岸水手女足",
     "half_time_score": "1:2",
@@ -10999,6 +11925,8 @@
   },
   {
     "match_id": "FB7002",
+    "match_date": "2026-10-17",
+    "match_time": "14:00",
     "home_team": "大阪櫻花",
     "away_team": "川崎前鋒",
     "half_time_score": "1:2",
@@ -11105,6 +12033,8 @@
   },
   {
     "match_id": "FB7001",
+    "match_date": "2026-10-17",
+    "match_time": "14:00",
     "home_team": "鹿島鹿角",
     "away_team": "長崎成功丸",
     "half_time_score": "2:0",
@@ -11211,6 +12141,8 @@
   },
   {
     "match_id": "FB7055",
+    "match_date": "2026-10-17",
+    "match_time": "15:00",
     "home_team": "水戶蜀葵",
     "away_team": "浦和紅鑽",
     "half_time_score": "0:0",
@@ -11317,6 +12249,8 @@
   },
   {
     "match_id": "FB7003",
+    "match_date": "2026-10-17",
+    "match_time": "15:30",
     "home_team": "蔚山HD",
     "away_team": "FC富川",
     "half_time_score": "0:1",
@@ -11423,6 +12357,8 @@
   },
   {
     "match_id": "FB7005",
+    "match_date": "2026-10-17",
+    "match_time": "15:30",
     "home_team": "金浦FC",
     "away_team": "坡州前線",
     "half_time_score": "1:1",
@@ -11491,6 +12427,8 @@
   },
   {
     "match_id": "FB7004",
+    "match_date": "2026-10-17",
+    "match_time": "15:30",
     "home_team": "FC慶南",
     "away_team": "忠南牙山",
     "half_time_score": "0:0",
@@ -11565,6 +12503,8 @@
   },
   {
     "match_id": "FB7056",
+    "match_date": "2026-10-17",
+    "match_time": "15:30",
     "home_team": "龍仁FC",
     "away_team": "安山綠人",
     "half_time_score": "0:0",
@@ -11633,6 +12573,8 @@
   },
   {
     "match_id": "FB7047",
+    "match_date": "2026-10-17",
+    "match_time": "16:30",
     "home_team": "比斯活特城",
     "away_team": "馬可尼駿馬",
     "half_time_score": "1:1",
@@ -11739,6 +12681,8 @@
   },
   {
     "match_id": "FB6801",
+    "match_date": "2026-10-17",
+    "match_time": "16:40",
     "home_team": "中岸水手",
     "away_team": "紐卡素噴射機",
     "half_time_score": "1:0",
@@ -11845,6 +12789,8 @@
   },
   {
     "match_id": "FB7006",
+    "match_date": "2026-10-17",
+    "match_time": "17:00",
     "home_team": "富山勝利",
     "away_team": "湘南比馬",
     "half_time_score": "1:0",
@@ -11951,6 +12897,8 @@
   },
   {
     "match_id": "FB7008",
+    "match_date": "2026-10-17",
+    "match_time": "18:00",
     "home_team": "柏雷素爾",
     "away_team": "名古屋鯨魚",
     "half_time_score": "1:2",
@@ -12057,6 +13005,8 @@
   },
   {
     "match_id": "FB7007",
+    "match_date": "2026-10-17",
+    "match_time": "18:00",
     "home_team": "宮崎棒牛鳥",
     "away_team": "磐田山葉",
     "half_time_score": "1:1",
@@ -12163,6 +13113,8 @@
   },
   {
     "match_id": "FB7189",
+    "match_date": "2026-10-17",
+    "match_time": "18:30",
     "home_team": "薩斯索羅女足",
     "away_team": "拿玻里女足",
     "half_time_score": "0:2",
@@ -12259,6 +13211,8 @@
   },
   {
     "match_id": "FB7095",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "伊斯韋斯",
     "away_team": "施拿祖基",
     "half_time_score": "1:0",
@@ -12333,6 +13287,8 @@
   },
   {
     "match_id": "FB7090",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "查路",
     "away_team": "馬利漢",
     "half_time_score": "0:0",
@@ -12401,6 +13357,8 @@
   },
   {
     "match_id": "FB7091",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "拉迪",
     "away_team": "TPS杜古",
     "half_time_score": "3:1",
@@ -12469,6 +13427,8 @@
   },
   {
     "match_id": "FB7030",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "格雷特霍夫",
     "away_team": "布倫瑞克",
     "half_time_score": "1:0",
@@ -12575,6 +13535,8 @@
   },
   {
     "match_id": "FB7043",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "凱沙羅頓",
     "away_team": "波琴",
     "half_time_score": "1:0",
@@ -12681,6 +13643,8 @@
   },
   {
     "match_id": "FB7029",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "禾夫斯堡",
     "away_team": "海登咸",
     "half_time_score": "2:1",
@@ -12787,6 +13751,8 @@
   },
   {
     "match_id": "FB7069",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "森馬拉",
     "away_team": "法高爾佛羅內什",
     "half_time_score": "1:1",
@@ -12855,6 +13821,8 @@
   },
   {
     "match_id": "FB7031",
+    "match_date": "2026-10-17",
+    "match_time": "19:00",
     "home_team": "素可泰",
     "away_team": "拉西薩萊聯",
     "half_time_score": "1:1",
@@ -12961,6 +13929,8 @@
   },
   {
     "match_id": "FB7191",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "米杜士堡",
     "away_team": "卡迪夫城",
     "half_time_score": "0:2",
@@ -13035,6 +14005,8 @@
   },
   {
     "match_id": "FB7192",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "米禾爾",
     "away_team": "林肯城",
     "half_time_score": "0:2",
@@ -13109,6 +14081,8 @@
   },
   {
     "match_id": "FB7193",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "屈福特",
     "away_team": "查爾頓",
     "half_time_score": "0:0",
@@ -13215,6 +14189,8 @@
   },
   {
     "match_id": "FB7178",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "米爾頓凱恩斯",
     "away_team": "盧頓",
     "half_time_score": "1:0",
@@ -13283,6 +14259,8 @@
   },
   {
     "match_id": "FB7182",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "彼德堡",
     "away_team": "伯頓",
     "half_time_score": "1:1",
@@ -13351,6 +14329,8 @@
   },
   {
     "match_id": "FB7186",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "費列活特",
     "away_team": "洛達咸",
     "half_time_score": "0:0",
@@ -13419,6 +14399,8 @@
   },
   {
     "match_id": "FB7183",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "梳士貝利",
     "away_team": "布里斯托流浪",
     "half_time_score": "0:0",
@@ -13487,6 +14469,8 @@
   },
   {
     "match_id": "FB6960",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "愛華頓",
     "away_team": "車路士",
     "half_time_score": "0:0",
@@ -13593,6 +14577,8 @@
   },
   {
     "match_id": "FB7033",
+    "match_date": "2026-10-17",
+    "match_time": "19:30",
     "home_team": "春武里",
     "away_team": "巴蜀",
     "half_time_score": "1:0",
@@ -13693,6 +14679,8 @@
   },
   {
     "match_id": "FB7131",
+    "match_date": "2026-10-17",
+    "match_time": "20:00",
     "home_team": "梅斯",
     "away_team": "索察",
     "half_time_score": "2:0",
@@ -13761,6 +14749,8 @@
   },
   {
     "match_id": "FB7130",
+    "match_date": "2026-10-17",
+    "match_time": "20:00",
     "home_team": "南特",
     "away_team": "登卡基",
     "half_time_score": "1:2",
@@ -13829,6 +14819,8 @@
   },
   {
     "match_id": "FB7046",
+    "match_date": "2026-10-17",
+    "match_time": "20:00",
     "home_team": "咸卡",
     "away_team": "波杜基林特",
     "half_time_score": "0:2",
@@ -13935,6 +14927,8 @@
   },
   {
     "match_id": "FB6983",
+    "match_date": "2026-10-17",
+    "match_time": "20:00",
     "home_team": "愛斯賓奴",
     "away_team": "馬德里體育會",
     "half_time_score": "0:0",
@@ -14041,6 +15035,8 @@
   },
   {
     "match_id": "FB7009",
+    "match_date": "2026-10-17",
+    "match_time": "20:00",
     "home_team": "羅勇",
     "away_team": "烏泰他尼",
     "half_time_score": "1:0",
@@ -14141,6 +15137,8 @@
   },
   {
     "match_id": "FB7190",
+    "match_date": "2026-10-17",
+    "match_time": "20:57",
     "home_team": "CA普格雷素",
     "away_team": "拿斯派達斯青年",
     "half_time_score": "0:0",
@@ -14209,6 +15207,8 @@
   },
   {
     "match_id": "FB7092",
+    "match_date": "2026-10-17",
+    "match_time": "21:00",
     "home_team": "赫爾辛基",
     "away_team": "格尼斯坦",
     "half_time_score": "0:0",
@@ -14283,6 +15283,8 @@
   },
   {
     "match_id": "FB6987",
+    "match_date": "2026-10-17",
+    "match_time": "21:00",
     "home_team": "威尼斯",
     "away_team": "拿玻里",
     "half_time_score": "0:0",
@@ -14389,6 +15391,8 @@
   },
   {
     "match_id": "FB7076",
+    "match_date": "2026-10-17",
+    "match_time": "21:05",
     "home_team": "阿爾納沙",
     "away_team": "哈塔會",
     "half_time_score": "1:0",
@@ -14457,6 +15461,8 @@
   },
   {
     "match_id": "FB6970",
+    "match_date": "2026-10-17",
+    "match_time": "21:30",
     "home_team": "艾華斯堡",
     "away_team": "奧格斯堡",
     "half_time_score": "3:1",
@@ -14563,6 +15569,8 @@
   },
   {
     "match_id": "FB6968",
+    "match_date": "2026-10-17",
+    "match_time": "21:30",
     "home_team": "漢堡",
     "away_team": "史特加",
     "half_time_score": "0:0",
@@ -14669,6 +15677,8 @@
   },
   {
     "match_id": "FB6969",
+    "match_date": "2026-10-17",
+    "match_time": "21:30",
     "home_team": "史浩克04",
     "away_team": "緬恩斯",
     "half_time_score": "0:1",
@@ -14775,6 +15785,8 @@
   },
   {
     "match_id": "FB6971",
+    "match_date": "2026-10-17",
+    "match_time": "21:30",
     "home_team": "柏林聯",
     "away_team": "多蒙特",
     "half_time_score": "0:0",
@@ -14881,6 +15893,8 @@
   },
   {
     "match_id": "FB6974",
+    "match_date": "2026-10-17",
+    "match_time": "21:30",
     "home_team": "雲達不來梅",
     "away_team": "柏達邦",
     "half_time_score": "0:2",
@@ -14987,6 +16001,8 @@
   },
   {
     "match_id": "FB7073",
+    "match_date": "2026-10-17",
+    "match_time": "21:30",
     "home_team": "馬哈奇卡拉戴拿模",
     "away_team": "阿克隆陶爾亞蒂",
     "half_time_score": "0:0",
@@ -15055,6 +16071,8 @@
   },
   {
     "match_id": "FB7198",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "伯明翰",
     "away_team": "昆士柏流浪",
     "half_time_score": "1:0",
@@ -15129,6 +16147,8 @@
   },
   {
     "match_id": "FB7197",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "布里斯托城",
     "away_team": "錫菲聯",
     "half_time_score": "0:1",
@@ -15197,6 +16217,8 @@
   },
   {
     "match_id": "FB7199",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "打比郡",
     "away_team": "史篤城",
     "half_time_score": "0:0",
@@ -15265,6 +16287,8 @@
   },
   {
     "match_id": "FB7194",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "諾域治",
     "away_team": "樸茨茅夫",
     "half_time_score": "0:0",
@@ -15339,6 +16363,8 @@
   },
   {
     "match_id": "FB7201",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "修咸頓",
     "away_team": "保頓",
     "half_time_score": "0:0",
@@ -15413,6 +16439,8 @@
   },
   {
     "match_id": "FB7200",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "史雲斯",
     "away_team": "韋斯咸",
     "half_time_score": "0:1",
@@ -15487,6 +16515,8 @@
   },
   {
     "match_id": "FB7202",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "西布朗",
     "away_team": "布力般流浪",
     "half_time_score": "1:2",
@@ -15561,6 +16591,8 @@
   },
   {
     "match_id": "FB7203",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "域斯咸",
     "away_team": "普雷斯頓",
     "half_time_score": "2:1",
@@ -15629,6 +16661,8 @@
   },
   {
     "match_id": "FB7184",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "李斯特城",
     "away_team": "唐卡士打",
     "half_time_score": "1:0",
@@ -15697,6 +16731,8 @@
   },
   {
     "match_id": "FB7179",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "普利茅夫",
     "away_team": "哈特斯菲爾德",
     "half_time_score": "0:1",
@@ -15765,6 +16801,8 @@
   },
   {
     "match_id": "FB7185",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "錫周三",
     "away_team": "AFC 溫布頓",
     "half_time_score": "3:0",
@@ -15833,6 +16871,8 @@
   },
   {
     "match_id": "FB7181",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "史托港",
     "away_team": "布羅姆利",
     "half_time_score": "1:0",
@@ -15901,6 +16941,8 @@
   },
   {
     "match_id": "FB6959",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "賓福特",
     "away_team": "利物浦",
     "half_time_score": "1:0",
@@ -16007,6 +17049,8 @@
   },
   {
     "match_id": "FB6962",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "富咸",
     "away_team": "侯城",
     "half_time_score": "1:0",
@@ -16113,6 +17157,8 @@
   },
   {
     "match_id": "FB6961",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "曼城",
     "away_team": "葉士域治",
     "half_time_score": "2:1",
@@ -16219,6 +17265,8 @@
   },
   {
     "match_id": "FB7045",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "基斯迪辛德",
     "away_team": "阿里辛特",
     "half_time_score": "1:1",
@@ -16287,6 +17335,8 @@
   },
   {
     "match_id": "FB6963",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "鴨巴甸",
     "away_team": "聖美倫",
     "half_time_score": "1:1",
@@ -16355,6 +17405,8 @@
   },
   {
     "match_id": "FB6966",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "喜伯年",
     "away_team": "福爾柯克",
     "half_time_score": "1:2",
@@ -16423,6 +17475,8 @@
   },
   {
     "match_id": "FB6965",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "基爾馬諾克",
     "away_team": "馬瑟韋爾",
     "half_time_score": "1:1",
@@ -16491,6 +17545,8 @@
   },
   {
     "match_id": "FB6964",
+    "match_date": "2026-10-17",
+    "match_time": "22:00",
     "home_team": "聖莊士東",
     "away_team": "登地聯",
     "half_time_score": "1:0",
@@ -16559,6 +17615,8 @@
   },
   {
     "match_id": "FB7132",
+    "match_date": "2026-10-17",
+    "match_time": "22:15",
     "home_team": "伊巴",
     "away_team": "馬略卡",
     "half_time_score": "0:0",
@@ -16627,6 +17685,8 @@
   },
   {
     "match_id": "FB6985",
+    "match_date": "2026-10-17",
+    "match_time": "22:15",
     "home_team": "維拉利爾",
     "away_team": "艾爾切",
     "half_time_score": "0:0",
@@ -16733,6 +17793,8 @@
   },
   {
     "match_id": "FB7010",
+    "match_date": "2026-10-17",
+    "match_time": "22:30",
     "home_team": "安曼",
     "away_team": "阿梅爾城",
     "half_time_score": "2:0",
@@ -16801,6 +17863,8 @@
   },
   {
     "match_id": "FB6973",
+    "match_date": "2026-10-17",
+    "match_time": "22:30",
     "home_team": "海牙",
     "away_team": "燕豪芬",
     "half_time_score": "0:1",
@@ -16875,6 +17939,8 @@
   },
   {
     "match_id": "FB7209",
+    "match_date": "2026-10-17",
+    "match_time": "22:30",
     "home_team": "艾塞利亞",
     "away_team": "卡塔爾SC",
     "half_time_score": "0:1",
@@ -16943,6 +18009,8 @@
   },
   {
     "match_id": "FB7123",
+    "match_date": "2026-10-17",
+    "match_time": "23:00",
     "home_team": "奧地利路斯登洛",
     "away_team": "寧斯",
     "half_time_score": "0:0",
@@ -17011,6 +18079,8 @@
   },
   {
     "match_id": "FB7093",
+    "match_date": "2026-10-17",
+    "match_time": "23:00",
     "home_team": "國際杜古",
     "away_team": "AC奧盧",
     "half_time_score": "0:1",
@@ -17085,6 +18155,8 @@
   },
   {
     "match_id": "FB6978",
+    "match_date": "2026-10-17",
+    "match_time": "23:15",
     "home_team": "斯特拉斯堡",
     "away_team": "巴黎聖日耳門",
     "half_time_score": "1:0",
@@ -17191,6 +18263,8 @@
   },
   {
     "match_id": "FB7219",
+    "match_date": "2026-10-17",
+    "match_time": "23:30",
     "home_team": "奧特海維利",
     "away_team": "法郎波蘭斯",
     "half_time_score": "0:0",
@@ -17259,6 +18333,8 @@
   },
   {
     "match_id": "FB7187",
+    "match_date": "2026-10-17",
+    "match_time": "23:40",
     "home_team": "尼奧姆SC",
     "away_team": "伊蒂法克",
     "half_time_score": "0:0",
@@ -17327,6 +18403,8 @@
   },
   {
     "match_id": "FB7077",
+    "match_date": "2026-10-17",
+    "match_time": "23:45",
     "home_team": "沙比阿爾阿里",
     "away_team": "艾阿恩",
     "half_time_score": "1:0",
