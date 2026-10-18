@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+service_account.json
+.env
+credentials.json
+*.pem
