@@ -8,6 +8,8 @@ from zoneinfo import ZoneInfo
 
 from playwright.sync_api import sync_playwright
 
+from upcoming_snapshot import SnapshotStore
+
 HAD_URL = "https://bet.hkjc.com/ch/football/had"
 HK = ZoneInfo("Asia/Hong_Kong")
 # 包含今日剩餘場次，直到後日結束。23 號跑就收 23、24、25 號。
@@ -16,6 +18,7 @@ PAUSE_BETWEEN_MATCHES = 5
 
 BASE_DIR = Path(__file__).resolve().parent
 UPCOMING_DIR = BASE_DIR / "upcoming"
+SNAPSHOTS_DIR = BASE_DIR / "upcoming_snapshots"
 
 MARKET_CODES = {
     "主客和": "HAD",
@@ -253,7 +256,8 @@ def convert_market(code, raw):
     return None
 
 
-def build_record(info, raw_markets):
+def build_record(info, raw_markets, updated_at=None):
+    stamp = updated_at or now_hk()
     record = {
         "match_id": info["match_id"],
         "match_date": info["deadline"].strftime("%Y-%m-%d"),
@@ -262,7 +266,7 @@ def build_record(info, raw_markets):
         "home_team": info["home_team"],
         "away_team": info["away_team"],
         "status": "未開波",
-        "updated_at": now_hk().strftime("%Y-%m-%d %H:%M:%S"),
+        "updated_at": stamp.strftime("%Y-%m-%d %H:%M:%S"),
     }
     for name, code in MARKET_CODES.items():
         record[name] = convert_market(code, raw_markets.get(code))
@@ -431,14 +435,15 @@ def scrape_match(page, info):
     if front_id and front_id != match_id:
         raise RuntimeError(f"入錯場：{front_id}")
     raw_markets = page.evaluate(EXTRACT_JS, match_id)
-    record = build_record(info, raw_markets)
+    captured_at = now_hk()
+    record = build_record(info, raw_markets, updated_at=captured_at)
     print("返回主客和列表...")
     try:
         return_to_list(page)
     except Exception as exc:
         print(f"返回列表失敗，重新開啟主客和頁：{exc}")
         open_had(page)
-    return record
+    return record, raw_markets, captured_at
 
 
 def prune_stale(keep_ids):
@@ -452,11 +457,31 @@ def prune_stale(keep_ids):
     return removed
 
 
+def save_upcoming_and_snapshot(info, record, raw_markets, captured_at, store):
+    """先寫最新 upcoming JSON，再追加不可覆寫快照。Push 失敗唔會影響本機檔。"""
+    dump_json(UPCOMING_DIR / f"{info['match_id']}.json", record)
+    # 列表 matchTime 係預定截止投注時間；未見獨立開賽鐘，kickoff_at 同 betting_close_at 同源。
+    deadline = info["deadline"]
+    snapshot = store.save(
+        match_id=info["match_id"],
+        home_team=info["home_team"],
+        away_team=info["away_team"],
+        captured_at=captured_at,
+        kickoff_at=deadline,
+        betting_close_at=deadline,
+        raw_markets=raw_markets,
+    )
+    return snapshot
+
+
 def run(headless=False):
     UPCOMING_DIR.mkdir(parents=True, exist_ok=True)
+    SNAPSHOTS_DIR.mkdir(parents=True, exist_ok=True)
     now = now_hk()
+    store = SnapshotStore(SNAPSHOTS_DIR)
     print(f"香港時間：{now.strftime('%Y-%m-%d %H:%M')}")
     print(f"只收截止時間未過、而且喺今日起 {LOOKAHEAD_DAYS} 日內、已有主客和賠率嘅場")
+    print(f"今次 run_id：{store.run_id}（成功場次會追加快照到 upcoming_snapshots/）")
 
     with sync_playwright() as p:
         browser = p.chromium.launch(headless=headless)
@@ -480,9 +505,17 @@ def run(headless=False):
                     f"{info['home_team']} 對 {info['away_team']}"
                 )
                 try:
-                    record = scrape_match(page, info)
-                    dump_json(UPCOMING_DIR / f"{info['match_id']}.json", record)
+                    record, raw_markets, captured_at = scrape_match(page, info)
+                    snapshot = save_upcoming_and_snapshot(
+                        info, record, raw_markets, captured_at, store
+                    )
                     print(f"[{index}/{len(selected)}] {info['match_id']} 已覆蓋寫入 upcoming/")
+                    if snapshot:
+                        print(
+                            f"[{index}/{len(selected)}] {info['match_id']} "
+                            f"快照 {snapshot['snapshot_id']} "
+                            f"prematch_valid={snapshot['prematch_valid']}"
+                        )
                 except Exception as exc:
                     print(f"[{index}/{len(selected)}] {info['match_id']} 失敗：{exc}")
                     if page.is_closed() or not return_to_list_safe(page):
